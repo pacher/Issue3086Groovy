@@ -1,0 +1,5 @@
+include 'core'
+include 'cli'
+
+
+//rootProject.projectDir = file('root')
